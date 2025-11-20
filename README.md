@@ -103,7 +103,7 @@ gl_FragColor = vec4(c * k + .1 * (1. - d), 1.);
 El shader crea un patrón radial animado con pulsación, suavizado con
 `smoothstep`, gradiente cromático interpolado y un brillo central.
 
-<video controls src="20251120-2212-10.2288110.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/d053d294-613a-4b84-b8ad-01e64487b847
 
 ------------------------------------------------------------------------
 
