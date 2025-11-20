@@ -23,7 +23,7 @@ El resultado es un shader compacto que produce un efecto tipo **florradial \ pul
 
 ## 2. Código original del shader
 
-[**Codigo version Tiny**](/Shader_vTiny.frag)
+[**Codigo version Tiny**](/Shader_vTiny.frag) \
 [**Codigo version Extendida**](/Shader_vExtendida.frag)
 
 ------------------------------------------------------------------------
